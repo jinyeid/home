@@ -1,3 +1,3 @@
 # home
 
-[test](http://google.com.jp)
+[test](http://google.co.jp)

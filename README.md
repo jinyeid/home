@@ -20,7 +20,16 @@
 [Sublime Text](http://www.sublimetext.com)
 
 
+[Cyberduck](https://cyberduck.io)
+
+
 [IINA+](https://github.com/xjbeta/iina-plus)
+
+
+[SwitchResX](http://www.madrau.com)
+
+
+[Mounty for NTFS](https://mounty.app)
 
 
 [Fliqlo](https://fliqlo.com)

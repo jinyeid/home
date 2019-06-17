@@ -39,3 +39,6 @@
 
 
 [X Lossless Decoder](https://tmkk.undo.jp/xld/index_e.html)
+
+
+[RIME输入法](https://rime.im)
